@@ -25,9 +25,9 @@
 4.系统设置-导航管理中删除订购产品等菜单，自行添加订购产品菜单
 并将链接设置成products.html
 
-官网社区 https://eva.openjw.com
-gitee仓库 https://gitee.com/test111222333/v10web
-github仓库 https://github.com/OPENJW-COM/v10web
+官网社区 https://eva.openjw.com  
+gitee仓库 https://gitee.com/test111222333/v10web  
+github仓库 https://github.com/OPENJW-COM/v10web  
 
 ![V10模板主页](/src/1.png)  
 ![V10模板产品页](/src/2.png)  
