@@ -18,10 +18,17 @@
 2.在V10业务管理员后台更改主题
 
 3.主题控制器中自行添加以下菜单以及链接页面
----云服务器页面 products.html
+---云服务器页面 products.html  
+---帮助文档页面 docs.html  
+---新闻中心页面 news.html  
 
 4.系统设置-导航管理中删除订购产品等菜单，自行添加订购产品菜单
 并将链接设置成products.html
+
+官网社区 https://eva.openjw.com
+gitee仓库 https://gitee.com/test111222333/v10web
+github仓库 https://github.com/OPENJW-COM/v10web
+
 ![V10模板主页](/src/1.png)  
 ![V10模板产品页](/src/2.png)  
 ![V10模板购物车](/src/3.png)  
